@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohamud. I'm an aspiring Data Analyst with a passion for transforming data into actionable insights.
+- 👋 Hi, I’m Mohamud. I'm a Data Analyst with a passion for transforming data into actionable insights.
 - 👀 I’m interested in data analysis, data visualization, and using data to drive business decisions.
 - 🌱 I’m currently learning Python techniques, SQL, and data visualization with tools like Power BI and Tableau.
 - 💞️ I’m looking to collaborate on projects involving data cleaning, analysis, and visualization, where I can apply my skills in Excel, Python, SQL, Power BI, and Tableau.
